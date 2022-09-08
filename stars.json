@@ -1,0 +1,182 @@
+[
+  {
+    "full_name": "methodair/project-julie",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "google/addlicense",
+    "stargazers_count": 530,
+    "open_issues_count": 34,
+    "forks_count": 143
+  },
+  {
+    "full_name": "cncf/cloudnativetv",
+    "stargazers_count": 33,
+    "open_issues_count": 2,
+    "forks_count": 6
+  },
+  {
+    "full_name": "cncf/cloud-native-community-cookbook",
+    "stargazers_count": 148,
+    "open_issues_count": 6,
+    "forks_count": 38
+  },
+  {
+    "full_name": "lima-vm/lima",
+    "stargazers_count": 9018,
+    "open_issues_count": 152,
+    "forks_count": 338
+  },
+  {
+    "full_name": "adhdevops/adhdevops.club",
+    "stargazers_count": 20,
+    "open_issues_count": 2,
+    "forks_count": 0
+  },
+  {
+    "full_name": "tinkerbell/hook",
+    "stargazers_count": 55,
+    "open_issues_count": 13,
+    "forks_count": 25
+  },
+  {
+    "full_name": "honk-ci/honk-twitter-bot",
+    "stargazers_count": 18,
+    "open_issues_count": 4,
+    "forks_count": 7
+  },
+  {
+    "full_name": "pfnet-research/asdf-clusterctl",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "mbbroberg/awesome-zoom-backgrounds",
+    "stargazers_count": 97,
+    "open_issues_count": 0,
+    "forks_count": 15
+  },
+  {
+    "full_name": "cert-manager/cert-manager",
+    "stargazers_count": 9322,
+    "open_issues_count": 235,
+    "forks_count": 1708
+  },
+  {
+    "full_name": "ibuildthecloud/klum",
+    "stargazers_count": 288,
+    "open_issues_count": 4,
+    "forks_count": 17
+  },
+  {
+    "full_name": "isacikgoz/tldr",
+    "stargazers_count": 1218,
+    "open_issues_count": 19,
+    "forks_count": 44
+  },
+  {
+    "full_name": "gizak/termui",
+    "stargazers_count": 12049,
+    "open_issues_count": 94,
+    "forks_count": 755
+  },
+  {
+    "full_name": "vmware-archive/cluster-api-upgrade-tool",
+    "stargazers_count": 32,
+    "open_issues_count": 2,
+    "forks_count": 25
+  },
+  {
+    "full_name": "liquidctl/liquidtux",
+    "stargazers_count": 41,
+    "open_issues_count": 2,
+    "forks_count": 10
+  },
+  {
+    "full_name": "liquidctl/liquidctl",
+    "stargazers_count": 1520,
+    "open_issues_count": 42,
+    "forks_count": 164
+  },
+  {
+    "full_name": "frapposelli/dotfiles",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ork/mutt-office365",
+    "stargazers_count": 284,
+    "open_issues_count": 14,
+    "forks_count": 55
+  },
+  {
+    "full_name": "twosigma/marbles",
+    "stargazers_count": 111,
+    "open_issues_count": 20,
+    "forks_count": 14
+  },
+  {
+    "full_name": "jessfraz/dotfiles",
+    "stargazers_count": 3045,
+    "open_issues_count": 11,
+    "forks_count": 508
+  },
+  {
+    "full_name": "jbeda/dotfiles",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
+    "full_name": "projectcontour/contour",
+    "stargazers_count": 3222,
+    "open_issues_count": 421,
+    "forks_count": 576
+  },
+  {
+    "full_name": "ksonnet/ksonnet",
+    "stargazers_count": 1155,
+    "open_issues_count": 151,
+    "forks_count": 176
+  },
+  {
+    "full_name": "vmware-tanzu/sonobuoy",
+    "stargazers_count": 2608,
+    "open_issues_count": 58,
+    "forks_count": 319
+  },
+  {
+    "full_name": "vmware-archive/wardroom",
+    "stargazers_count": 164,
+    "open_issues_count": 31,
+    "forks_count": 44
+  },
+  {
+    "full_name": "CentOS/duffy",
+    "stargazers_count": 9,
+    "open_issues_count": 11,
+    "forks_count": 20
+  },
+  {
+    "full_name": "kubicorn/kubicorn",
+    "stargazers_count": 1678,
+    "open_issues_count": 72,
+    "forks_count": 203
+  },
+  {
+    "full_name": "CentOS/Calendar",
+    "stargazers_count": 12,
+    "open_issues_count": 0,
+    "forks_count": 30
+  },
+  {
+    "full_name": "kubernetes-sigs/external-dns",
+    "stargazers_count": 5607,
+    "open_issues_count": 256,
+    "forks_count": 1967
+  }
+]
