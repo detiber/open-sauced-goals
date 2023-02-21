@@ -7,7 +7,7 @@
   },
   {
     "full_name": "google/addlicense",
-    "stargazers_count": 578,
+    "stargazers_count": 579,
     "open_issues_count": 42,
     "forks_count": 156
   },
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 10688,
-    "open_issues_count": 194,
-    "forks_count": 422
+    "stargazers_count": 10713,
+    "open_issues_count": 196,
+    "forks_count": 425
   },
   {
     "full_name": "tinkerbell/hook",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 9994,
-    "open_issues_count": 210,
-    "forks_count": 1811
+    "stargazers_count": 10009,
+    "open_issues_count": 203,
+    "forks_count": 1812
   },
   {
     "full_name": "ibuildthecloud/klum",
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "isacikgoz/tldr",
-    "stargazers_count": 1265,
-    "open_issues_count": 21,
+    "stargazers_count": 1267,
+    "open_issues_count": 22,
     "forks_count": 45
   },
   {
     "full_name": "gizak/termui",
-    "stargazers_count": 12352,
+    "stargazers_count": 12351,
     "open_issues_count": 97,
-    "forks_count": 766
+    "forks_count": 765
   },
   {
     "full_name": "vmware-archive/cluster-api-upgrade-tool",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "liquidctl/liquidctl",
-    "stargazers_count": 1710,
-    "open_issues_count": 45,
-    "forks_count": 178
+    "stargazers_count": 1712,
+    "open_issues_count": 46,
+    "forks_count": 179
   },
   {
     "full_name": "frapposelli/dotfiles",
@@ -127,8 +127,8 @@
   },
   {
     "full_name": "projectcontour/contour",
-    "stargazers_count": 3321,
-    "open_issues_count": 389,
+    "stargazers_count": 3327,
+    "open_issues_count": 401,
     "forks_count": 612
   },
   {
@@ -139,8 +139,8 @@
   },
   {
     "full_name": "vmware-tanzu/sonobuoy",
-    "stargazers_count": 2690,
-    "open_issues_count": 42,
+    "stargazers_count": 2694,
+    "open_issues_count": 43,
     "forks_count": 329
   },
   {
@@ -152,7 +152,7 @@
   {
     "full_name": "CentOS/duffy",
     "stargazers_count": 12,
-    "open_issues_count": 16,
+    "open_issues_count": 13,
     "forks_count": 20
   },
   {
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "kubernetes-sigs/external-dns",
-    "stargazers_count": 6051,
-    "open_issues_count": 247,
-    "forks_count": 2175
+    "stargazers_count": 6062,
+    "open_issues_count": 242,
+    "forks_count": 2182
   },
   {
     "full_name": "mattanger/ckb-next",
