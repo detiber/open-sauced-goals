@@ -19,9 +19,9 @@
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 10911,
+    "stargazers_count": 10943,
     "open_issues_count": 201,
-    "forks_count": 435
+    "forks_count": 436
   },
   {
     "full_name": "tinkerbell/hook",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 10076,
-    "open_issues_count": 207,
-    "forks_count": 1830
+    "stargazers_count": 10085,
+    "open_issues_count": 210,
+    "forks_count": 1832
   },
   {
     "full_name": "ibuildthecloud/klum",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "gizak/termui",
-    "stargazers_count": 12395,
+    "stargazers_count": 12401,
     "open_issues_count": 97,
-    "forks_count": 764
+    "forks_count": 765
   },
   {
     "full_name": "vmware-archive/cluster-api-upgrade-tool",
@@ -85,8 +85,8 @@
   },
   {
     "full_name": "liquidctl/liquidctl",
-    "stargazers_count": 1736,
-    "open_issues_count": 48,
+    "stargazers_count": 1737,
+    "open_issues_count": 49,
     "forks_count": 182
   },
   {
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "jessfraz/dotfiles",
-    "stargazers_count": 3104,
+    "stargazers_count": 3105,
     "open_issues_count": 11,
     "forks_count": 521
   },
@@ -129,12 +129,12 @@
     "full_name": "ksonnet/ksonnet",
     "stargazers_count": 1162,
     "open_issues_count": 151,
-    "forks_count": 174
+    "forks_count": 173
   },
   {
     "full_name": "vmware-tanzu/sonobuoy",
-    "stargazers_count": 2700,
-    "open_issues_count": 19,
+    "stargazers_count": 2704,
+    "open_issues_count": 20,
     "forks_count": 331
   },
   {
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "kubernetes-sigs/external-dns",
-    "stargazers_count": 6144,
-    "open_issues_count": 238,
-    "forks_count": 2222
+    "stargazers_count": 6173,
+    "open_issues_count": 245,
+    "forks_count": 2233
   },
   {
     "full_name": "mattanger/ckb-next",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "google/python-fire",
-    "stargazers_count": 24134,
+    "stargazers_count": 24156,
     "open_issues_count": 133,
     "forks_count": 1370
   }
