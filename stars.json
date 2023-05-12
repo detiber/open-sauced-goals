@@ -19,9 +19,9 @@
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 11406,
-    "open_issues_count": 216,
-    "forks_count": 455
+    "stargazers_count": 11432,
+    "open_issues_count": 217,
+    "forks_count": 456
   },
   {
     "full_name": "tinkerbell/hook",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 10289,
-    "open_issues_count": 233,
-    "forks_count": 1866
+    "stargazers_count": 10300,
+    "open_issues_count": 232,
+    "forks_count": 1865
   },
   {
     "full_name": "ibuildthecloud/klum",
@@ -62,12 +62,12 @@
   {
     "full_name": "isacikgoz/tldr",
     "stargazers_count": 1284,
-    "open_issues_count": 22,
+    "open_issues_count": 23,
     "forks_count": 46
   },
   {
     "full_name": "gizak/termui",
-    "stargazers_count": 12476,
+    "stargazers_count": 12478,
     "open_issues_count": 97,
     "forks_count": 769
   },
@@ -85,8 +85,8 @@
   },
   {
     "full_name": "liquidctl/liquidctl",
-    "stargazers_count": 1778,
-    "open_issues_count": 58,
+    "stargazers_count": 1783,
+    "open_issues_count": 53,
     "forks_count": 184
   },
   {
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "jessfraz/dotfiles",
-    "stargazers_count": 3124,
+    "stargazers_count": 3126,
     "open_issues_count": 11,
     "forks_count": 527
   },
@@ -121,20 +121,20 @@
   },
   {
     "full_name": "projectcontour/contour",
-    "stargazers_count": 3403,
-    "open_issues_count": 369,
-    "forks_count": 635
+    "stargazers_count": 3404,
+    "open_issues_count": 370,
+    "forks_count": 636
   },
   {
     "full_name": "ksonnet/ksonnet",
-    "stargazers_count": 1165,
+    "stargazers_count": 1164,
     "open_issues_count": 151,
     "forks_count": 173
   },
   {
     "full_name": "vmware-tanzu/sonobuoy",
-    "stargazers_count": 2725,
-    "open_issues_count": 21,
+    "stargazers_count": 2726,
+    "open_issues_count": 20,
     "forks_count": 334
   },
   {
@@ -163,8 +163,8 @@
   },
   {
     "full_name": "kubernetes-sigs/external-dns",
-    "stargazers_count": 6301,
-    "open_issues_count": 245,
+    "stargazers_count": 6305,
+    "open_issues_count": 237,
     "forks_count": 2282
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "google/python-fire",
-    "stargazers_count": 24483,
-    "open_issues_count": 140,
-    "forks_count": 1389
+    "stargazers_count": 24503,
+    "open_issues_count": 141,
+    "forks_count": 1388
   }
 ]
