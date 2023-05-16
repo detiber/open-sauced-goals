@@ -1,9 +1,9 @@
 [
   {
     "full_name": "google/addlicense",
-    "stargazers_count": 607,
+    "stargazers_count": 608,
     "open_issues_count": 44,
-    "forks_count": 161
+    "forks_count": 162
   },
   {
     "full_name": "cncf/cloudnativetv",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 11432,
-    "open_issues_count": 217,
-    "forks_count": 456
+    "stargazers_count": 11453,
+    "open_issues_count": 218,
+    "forks_count": 460
   },
   {
     "full_name": "tinkerbell/hook",
@@ -49,8 +49,8 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 10300,
-    "open_issues_count": 232,
+    "stargazers_count": 10307,
+    "open_issues_count": 222,
     "forks_count": 1865
   },
   {
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "gizak/termui",
-    "stargazers_count": 12478,
+    "stargazers_count": 12479,
     "open_issues_count": 97,
-    "forks_count": 769
+    "forks_count": 768
   },
   {
     "full_name": "vmware-archive/cluster-api-upgrade-tool",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "liquidctl/liquidctl",
-    "stargazers_count": 1783,
+    "stargazers_count": 1789,
     "open_issues_count": 53,
-    "forks_count": 184
+    "forks_count": 185
   },
   {
     "full_name": "frapposelli/dotfiles",
@@ -123,7 +123,7 @@
     "full_name": "projectcontour/contour",
     "stargazers_count": 3404,
     "open_issues_count": 370,
-    "forks_count": 636
+    "forks_count": 637
   },
   {
     "full_name": "ksonnet/ksonnet",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "kubernetes-sigs/external-dns",
-    "stargazers_count": 6305,
-    "open_issues_count": 237,
-    "forks_count": 2282
+    "stargazers_count": 6311,
+    "open_issues_count": 231,
+    "forks_count": 2287
   },
   {
     "full_name": "mattanger/ckb-next",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "google/python-fire",
-    "stargazers_count": 24503,
-    "open_issues_count": 141,
-    "forks_count": 1388
+    "stargazers_count": 24524,
+    "open_issues_count": 142,
+    "forks_count": 1392
   }
 ]
