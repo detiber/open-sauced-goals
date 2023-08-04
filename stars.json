@@ -2,7 +2,7 @@
   {
     "full_name": "google/addlicense",
     "stargazers_count": 617,
-    "open_issues_count": 44,
+    "open_issues_count": 43,
     "forks_count": 167
   },
   {
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 12219,
-    "open_issues_count": 229,
-    "forks_count": 476
+    "stargazers_count": 12233,
+    "open_issues_count": 228,
+    "forks_count": 475
   },
   {
     "full_name": "tinkerbell/hook",
-    "stargazers_count": 79,
+    "stargazers_count": 80,
     "open_issues_count": 14,
     "forks_count": 32
   },
@@ -49,25 +49,25 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 10577,
+    "stargazers_count": 10591,
     "open_issues_count": 218,
-    "forks_count": 1905
+    "forks_count": 1906
   },
   {
     "full_name": "ibuildthecloud/klum",
     "stargazers_count": 294,
     "open_issues_count": 5,
-    "forks_count": 20
+    "forks_count": 21
   },
   {
     "full_name": "isacikgoz/tldr",
-    "stargazers_count": 1297,
+    "stargazers_count": 1298,
     "open_issues_count": 21,
     "forks_count": 46
   },
   {
     "full_name": "gizak/termui",
-    "stargazers_count": 12584,
+    "stargazers_count": 12587,
     "open_issues_count": 99,
     "forks_count": 776
   },
@@ -122,20 +122,20 @@
   {
     "full_name": "projectcontour/contour",
     "stargazers_count": 3468,
-    "open_issues_count": 354,
-    "forks_count": 643
+    "open_issues_count": 359,
+    "forks_count": 646
   },
   {
     "full_name": "ksonnet/ksonnet",
-    "stargazers_count": 1165,
+    "stargazers_count": 1166,
     "open_issues_count": 151,
     "forks_count": 174
   },
   {
     "full_name": "vmware-tanzu/sonobuoy",
-    "stargazers_count": 2757,
-    "open_issues_count": 10,
-    "forks_count": 333
+    "stargazers_count": 2760,
+    "open_issues_count": 11,
+    "forks_count": 334
   },
   {
     "full_name": "vmware-archive/wardroom",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "kubernetes-sigs/external-dns",
-    "stargazers_count": 6505,
-    "open_issues_count": 242,
-    "forks_count": 2356
+    "stargazers_count": 6516,
+    "open_issues_count": 248,
+    "forks_count": 2362
   },
   {
     "full_name": "mattanger/ckb-next",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "google/python-fire",
-    "stargazers_count": 24959,
+    "stargazers_count": 24978,
     "open_issues_count": 144,
-    "forks_count": 1413
+    "forks_count": 1414
   }
 ]
