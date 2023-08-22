@@ -1,13 +1,13 @@
 [
   {
     "full_name": "google/addlicense",
-    "stargazers_count": 618,
+    "stargazers_count": 620,
     "open_issues_count": 43,
     "forks_count": 169
   },
   {
     "full_name": "cncf/cloudnativetv",
-    "stargazers_count": 35,
+    "stargazers_count": 34,
     "open_issues_count": 2,
     "forks_count": 6
   },
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 12334,
-    "open_issues_count": 235,
-    "forks_count": 480
+    "stargazers_count": 12353,
+    "open_issues_count": 234,
+    "forks_count": 479
   },
   {
     "full_name": "tinkerbell/hook",
@@ -49,27 +49,27 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 10627,
-    "open_issues_count": 225,
+    "stargazers_count": 10636,
+    "open_issues_count": 219,
     "forks_count": 1915
   },
   {
     "full_name": "ibuildthecloud/klum",
     "stargazers_count": 295,
     "open_issues_count": 5,
-    "forks_count": 22
+    "forks_count": 21
   },
   {
     "full_name": "isacikgoz/tldr",
-    "stargazers_count": 1301,
+    "stargazers_count": 1302,
     "open_issues_count": 22,
     "forks_count": 46
   },
   {
     "full_name": "gizak/termui",
-    "stargazers_count": 12606,
+    "stargazers_count": 12610,
     "open_issues_count": 100,
-    "forks_count": 776
+    "forks_count": 777
   },
   {
     "full_name": "vmware-archive/cluster-api-upgrade-tool",
@@ -111,7 +111,7 @@
     "full_name": "jessfraz/dotfiles",
     "stargazers_count": 3142,
     "open_issues_count": 11,
-    "forks_count": 525
+    "forks_count": 524
   },
   {
     "full_name": "jbeda/dotfiles",
@@ -121,25 +121,25 @@
   },
   {
     "full_name": "projectcontour/contour",
-    "stargazers_count": 3480,
-    "open_issues_count": 358,
+    "stargazers_count": 3479,
+    "open_issues_count": 363,
     "forks_count": 649
   },
   {
     "full_name": "ksonnet/ksonnet",
-    "stargazers_count": 1166,
+    "stargazers_count": 1165,
     "open_issues_count": 151,
     "forks_count": 174
   },
   {
     "full_name": "vmware-tanzu/sonobuoy",
     "stargazers_count": 2766,
-    "open_issues_count": 11,
+    "open_issues_count": 13,
     "forks_count": 335
   },
   {
     "full_name": "vmware-archive/wardroom",
-    "stargazers_count": 163,
+    "stargazers_count": 162,
     "open_issues_count": 31,
     "forks_count": 44
   },
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "kubicorn/kubicorn",
-    "stargazers_count": 1689,
+    "stargazers_count": 1691,
     "open_issues_count": 66,
     "forks_count": 203
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "kubernetes-sigs/external-dns",
-    "stargazers_count": 6551,
-    "open_issues_count": 245,
-    "forks_count": 2384
+    "stargazers_count": 6612,
+    "open_issues_count": 248,
+    "forks_count": 2395
   },
   {
     "full_name": "mattanger/ckb-next",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "google/python-fire",
-    "stargazers_count": 25050,
-    "open_issues_count": 144,
-    "forks_count": 1420
+    "stargazers_count": 25063,
+    "open_issues_count": 145,
+    "forks_count": 1423
   }
 ]
