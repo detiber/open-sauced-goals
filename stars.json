@@ -19,9 +19,9 @@
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 12702,
-    "open_issues_count": 233,
-    "forks_count": 502
+    "stargazers_count": 12725,
+    "open_issues_count": 236,
+    "forks_count": 504
   },
   {
     "full_name": "tinkerbell/hook",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 10787,
-    "open_issues_count": 207,
-    "forks_count": 1939
+    "stargazers_count": 10794,
+    "open_issues_count": 208,
+    "forks_count": 1941
   },
   {
     "full_name": "ibuildthecloud/klum",
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "isacikgoz/tldr",
-    "stargazers_count": 1308,
+    "stargazers_count": 1309,
     "open_issues_count": 22,
     "forks_count": 48
   },
   {
     "full_name": "gizak/termui",
-    "stargazers_count": 12672,
+    "stargazers_count": 12673,
     "open_issues_count": 100,
-    "forks_count": 782
+    "forks_count": 783
   },
   {
     "full_name": "vmware-archive/cluster-api-upgrade-tool",
@@ -79,13 +79,13 @@
   },
   {
     "full_name": "liquidctl/liquidtux",
-    "stargazers_count": 59,
+    "stargazers_count": 60,
     "open_issues_count": 9,
     "forks_count": 11
   },
   {
     "full_name": "liquidctl/liquidctl",
-    "stargazers_count": 1908,
+    "stargazers_count": 1912,
     "open_issues_count": 58,
     "forks_count": 195
   },
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "jessfraz/dotfiles",
-    "stargazers_count": 3159,
+    "stargazers_count": 3160,
     "open_issues_count": 11,
     "forks_count": 525
   },
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "projectcontour/contour",
-    "stargazers_count": 3513,
-    "open_issues_count": 358,
-    "forks_count": 653
+    "stargazers_count": 3517,
+    "open_issues_count": 361,
+    "forks_count": 654
   },
   {
     "full_name": "ksonnet/ksonnet",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "vmware-tanzu/sonobuoy",
-    "stargazers_count": 2782,
+    "stargazers_count": 2783,
     "open_issues_count": 24,
     "forks_count": 339
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "kubernetes-sigs/external-dns",
-    "stargazers_count": 6725,
-    "open_issues_count": 232,
-    "forks_count": 2419
+    "stargazers_count": 6739,
+    "open_issues_count": 238,
+    "forks_count": 2424
   },
   {
     "full_name": "mattanger/ckb-next",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "google/python-fire",
-    "stargazers_count": 25343,
+    "stargazers_count": 25364,
     "open_issues_count": 147,
-    "forks_count": 1452
+    "forks_count": 1454
   }
 ]
