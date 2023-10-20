@@ -19,9 +19,9 @@
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 12725,
+    "stargazers_count": 12760,
     "open_issues_count": 236,
-    "forks_count": 504
+    "forks_count": 507
   },
   {
     "full_name": "tinkerbell/hook",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 10794,
-    "open_issues_count": 208,
-    "forks_count": 1941
+    "stargazers_count": 10804,
+    "open_issues_count": 211,
+    "forks_count": 1947
   },
   {
     "full_name": "ibuildthecloud/klum",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "gizak/termui",
-    "stargazers_count": 12673,
+    "stargazers_count": 12675,
     "open_issues_count": 100,
     "forks_count": 783
   },
@@ -79,13 +79,13 @@
   },
   {
     "full_name": "liquidctl/liquidtux",
-    "stargazers_count": 60,
+    "stargazers_count": 61,
     "open_issues_count": 9,
     "forks_count": 11
   },
   {
     "full_name": "liquidctl/liquidctl",
-    "stargazers_count": 1912,
+    "stargazers_count": 1913,
     "open_issues_count": 58,
     "forks_count": 195
   },
@@ -121,8 +121,8 @@
   },
   {
     "full_name": "projectcontour/contour",
-    "stargazers_count": 3517,
-    "open_issues_count": 361,
+    "stargazers_count": 3519,
+    "open_issues_count": 357,
     "forks_count": 654
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "full_name": "vmware-tanzu/sonobuoy",
-    "stargazers_count": 2783,
-    "open_issues_count": 24,
+    "stargazers_count": 2786,
+    "open_issues_count": 17,
     "forks_count": 339
   },
   {
@@ -146,7 +146,7 @@
   {
     "full_name": "CentOS/duffy",
     "stargazers_count": 10,
-    "open_issues_count": 19,
+    "open_issues_count": 18,
     "forks_count": 22
   },
   {
@@ -163,8 +163,8 @@
   },
   {
     "full_name": "kubernetes-sigs/external-dns",
-    "stargazers_count": 6739,
-    "open_issues_count": 238,
+    "stargazers_count": 6749,
+    "open_issues_count": 236,
     "forks_count": 2424
   },
   {
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "google/python-fire",
-    "stargazers_count": 25364,
+    "stargazers_count": 25379,
     "open_issues_count": 147,
     "forks_count": 1454
   }
