@@ -1,13 +1,13 @@
 [
   {
     "full_name": "djsime1/awesome-flipperzero",
-    "stargazers_count": 13638,
+    "stargazers_count": 13691,
     "open_issues_count": 2,
-    "forks_count": 617
+    "forks_count": 622
   },
   {
     "full_name": "google/addlicense",
-    "stargazers_count": 645,
+    "stargazers_count": 649,
     "open_issues_count": 47,
     "forks_count": 175
   },
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 12883,
-    "open_issues_count": 245,
-    "forks_count": 517
+    "stargazers_count": 12911,
+    "open_issues_count": 242,
+    "forks_count": 519
   },
   {
     "full_name": "tinkerbell/hook",
-    "stargazers_count": 82,
+    "stargazers_count": 83,
     "open_issues_count": 14,
     "forks_count": 38
   },
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 10851,
-    "open_issues_count": 211,
-    "forks_count": 1946
+    "stargazers_count": 10863,
+    "open_issues_count": 209,
+    "forks_count": 1949
   },
   {
     "full_name": "ibuildthecloud/klum",
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "gizak/termui",
-    "stargazers_count": 12693,
+    "stargazers_count": 12696,
     "open_issues_count": 100,
     "forks_count": 786
   },
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "liquidctl/liquidctl",
-    "stargazers_count": 1927,
+    "stargazers_count": 1929,
     "open_issues_count": 59,
-    "forks_count": 197
+    "forks_count": 198
   },
   {
     "full_name": "frapposelli/dotfiles",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "projectcontour/contour",
-    "stargazers_count": 3530,
-    "open_issues_count": 359,
-    "forks_count": 656
+    "stargazers_count": 3533,
+    "open_issues_count": 364,
+    "forks_count": 655
   },
   {
     "full_name": "ksonnet/ksonnet",
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "kubernetes-sigs/external-dns",
-    "stargazers_count": 6806,
-    "open_issues_count": 241,
-    "forks_count": 2438
+    "stargazers_count": 6811,
+    "open_issues_count": 240,
+    "forks_count": 2443
   },
   {
     "full_name": "mattanger/ckb-next",
