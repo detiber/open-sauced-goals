@@ -1,9 +1,9 @@
 [
   {
     "full_name": "djsime1/awesome-flipperzero",
-    "stargazers_count": 15650,
+    "stargazers_count": 15718,
     "open_issues_count": 4,
-    "forks_count": 710
+    "forks_count": 713
   },
   {
     "full_name": "google/addlicense",
@@ -25,14 +25,14 @@
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 13571,
-    "open_issues_count": 267,
+    "stargazers_count": 13584,
+    "open_issues_count": 272,
     "forks_count": 546
   },
   {
     "full_name": "tinkerbell/hook",
     "stargazers_count": 86,
-    "open_issues_count": 16,
+    "open_issues_count": 14,
     "forks_count": 42
   },
   {
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 11189,
-    "open_issues_count": 214,
-    "forks_count": 1994
+    "stargazers_count": 11212,
+    "open_issues_count": 216,
+    "forks_count": 1998
   },
   {
     "full_name": "ibuildthecloud/klum",
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "gizak/termui",
-    "stargazers_count": 12824,
+    "stargazers_count": 12826,
     "open_issues_count": 98,
     "forks_count": 792
   },
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "liquidctl/liquidctl",
-    "stargazers_count": 1995,
+    "stargazers_count": 1999,
     "open_issues_count": 66,
-    "forks_count": 203
+    "forks_count": 204
   },
   {
     "full_name": "frapposelli/dotfiles",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "projectcontour/contour",
-    "stargazers_count": 3590,
-    "open_issues_count": 283,
-    "forks_count": 664
+    "stargazers_count": 3593,
+    "open_issues_count": 261,
+    "forks_count": 665
   },
   {
     "full_name": "ksonnet/ksonnet",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "vmware-tanzu/sonobuoy",
-    "stargazers_count": 2828,
-    "open_issues_count": 23,
-    "forks_count": 342
+    "stargazers_count": 2829,
+    "open_issues_count": 24,
+    "forks_count": 343
   },
   {
     "full_name": "vmware-archive/wardroom",
@@ -164,14 +164,14 @@
   {
     "full_name": "CentOS/Calendar",
     "stargazers_count": 13,
-    "open_issues_count": 2,
-    "forks_count": 32
+    "open_issues_count": 3,
+    "forks_count": 33
   },
   {
     "full_name": "kubernetes-sigs/external-dns",
-    "stargazers_count": 7065,
-    "open_issues_count": 263,
-    "forks_count": 2496
+    "stargazers_count": 7079,
+    "open_issues_count": 259,
+    "forks_count": 2497
   },
   {
     "full_name": "mattanger/ckb-next",
