@@ -1,21 +1,21 @@
 [
   {
     "full_name": "ChazLayyd/Bambu-Lab-Klipper-Conversion",
-    "stargazers_count": 13,
+    "stargazers_count": 14,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "coderjojo/creative-profile-readme",
-    "stargazers_count": 2531,
+    "stargazers_count": 2534,
     "open_issues_count": 14,
     "forks_count": 516
   },
   {
     "full_name": "djsime1/awesome-flipperzero",
-    "stargazers_count": 18514,
+    "stargazers_count": 18548,
     "open_issues_count": 1,
-    "forks_count": 809
+    "forks_count": 810
   },
   {
     "full_name": "google/addlicense",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 15130,
-    "open_issues_count": 318,
-    "forks_count": 590
+    "stargazers_count": 15142,
+    "open_issues_count": 315,
+    "forks_count": 592
   },
   {
     "full_name": "tinkerbell/hook",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 12006,
+    "stargazers_count": 12021,
     "open_issues_count": 201,
     "forks_count": 2069
   },
@@ -79,13 +79,13 @@
   },
   {
     "full_name": "isacikgoz/tldr",
-    "stargazers_count": 1380,
+    "stargazers_count": 1378,
     "open_issues_count": 21,
     "forks_count": 48
   },
   {
     "full_name": "gizak/termui",
-    "stargazers_count": 13168,
+    "stargazers_count": 13179,
     "open_issues_count": 103,
     "forks_count": 788
   },
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "liquidctl/liquidctl",
-    "stargazers_count": 2212,
-    "open_issues_count": 74,
+    "stargazers_count": 2214,
+    "open_issues_count": 72,
     "forks_count": 221
   },
   {
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "projectcontour/contour",
-    "stargazers_count": 3718,
-    "open_issues_count": 156,
-    "forks_count": 673
+    "stargazers_count": 3720,
+    "open_issues_count": 149,
+    "forks_count": 676
   },
   {
     "full_name": "ksonnet/ksonnet",
@@ -151,8 +151,8 @@
   },
   {
     "full_name": "vmware-tanzu/sonobuoy",
-    "stargazers_count": 2905,
-    "open_issues_count": 29,
+    "stargazers_count": 2906,
+    "open_issues_count": 31,
     "forks_count": 344
   },
   {
