@@ -7,15 +7,15 @@
   },
   {
     "full_name": "coderjojo/creative-profile-readme",
-    "stargazers_count": 2542,
+    "stargazers_count": 2544,
     "open_issues_count": 14,
     "forks_count": 518
   },
   {
     "full_name": "djsime1/awesome-flipperzero",
-    "stargazers_count": 18616,
+    "stargazers_count": 18649,
     "open_issues_count": 1,
-    "forks_count": 810
+    "forks_count": 812
   },
   {
     "full_name": "google/addlicense",
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 15174,
-    "open_issues_count": 315,
+    "stargazers_count": 15186,
+    "open_issues_count": 310,
     "forks_count": 596
   },
   {
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 12049,
-    "open_issues_count": 208,
-    "forks_count": 2075
+    "stargazers_count": 12070,
+    "open_issues_count": 207,
+    "forks_count": 2078
   },
   {
     "full_name": "ibuildthecloud/klum",
@@ -87,7 +87,7 @@
     "full_name": "gizak/termui",
     "stargazers_count": 13187,
     "open_issues_count": 104,
-    "forks_count": 787
+    "forks_count": 786
   },
   {
     "full_name": "vmware-archive/cluster-api-upgrade-tool",
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "liquidctl/liquidtux",
-    "stargazers_count": 81,
+    "stargazers_count": 80,
     "open_issues_count": 5,
     "forks_count": 15
   },
   {
     "full_name": "liquidctl/liquidctl",
-    "stargazers_count": 2221,
+    "stargazers_count": 2222,
     "open_issues_count": 72,
     "forks_count": 221
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "jessfraz/dotfiles",
-    "stargazers_count": 3238,
+    "stargazers_count": 3239,
     "open_issues_count": 12,
     "forks_count": 521
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "projectcontour/contour",
-    "stargazers_count": 3722,
-    "open_issues_count": 153,
-    "forks_count": 677
+    "stargazers_count": 3723,
+    "open_issues_count": 144,
+    "forks_count": 678
   },
   {
     "full_name": "ksonnet/ksonnet",
@@ -152,7 +152,7 @@
   {
     "full_name": "vmware-tanzu/sonobuoy",
     "stargazers_count": 2908,
-    "open_issues_count": 31,
+    "open_issues_count": 32,
     "forks_count": 344
   },
   {
