@@ -1,7 +1,7 @@
 [
   {
     "full_name": "ChazLayyd/Bambu-Lab-Klipper-Conversion",
-    "stargazers_count": 245,
+    "stargazers_count": 327,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -9,13 +9,13 @@
     "full_name": "coderjojo/creative-profile-readme",
     "stargazers_count": 2632,
     "open_issues_count": 14,
-    "forks_count": 524
+    "forks_count": 525
   },
   {
     "full_name": "djsime1/awesome-flipperzero",
-    "stargazers_count": 19643,
+    "stargazers_count": 19677,
     "open_issues_count": 6,
-    "forks_count": 853
+    "forks_count": 854
   },
   {
     "full_name": "google/addlicense",
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 15967,
-    "open_issues_count": 332,
+    "stargazers_count": 15992,
+    "open_issues_count": 331,
     "forks_count": 618
   },
   {
     "full_name": "tinkerbell/hook",
-    "stargazers_count": 109,
+    "stargazers_count": 110,
     "open_issues_count": 2,
     "forks_count": 52
   },
   {
     "full_name": "honk-ci/honk-twitter-bot",
     "stargazers_count": 18,
-    "open_issues_count": 4,
-    "forks_count": 8
+    "open_issues_count": 2,
+    "forks_count": 7
   },
   {
     "full_name": "pfnet-research/asdf-clusterctl",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 12360,
-    "open_issues_count": 213,
-    "forks_count": 2114
+    "stargazers_count": 12379,
+    "open_issues_count": 212,
+    "forks_count": 2121
   },
   {
     "full_name": "ibuildthecloud/klum",
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "gizak/termui",
-    "stargazers_count": 13265,
+    "stargazers_count": 13266,
     "open_issues_count": 104,
     "forks_count": 791
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "jessfraz/dotfiles",
-    "stargazers_count": 3245,
+    "stargazers_count": 3247,
     "open_issues_count": 12,
     "forks_count": 518
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "projectcontour/contour",
-    "stargazers_count": 3745,
-    "open_issues_count": 141,
-    "forks_count": 689
+    "stargazers_count": 3746,
+    "open_issues_count": 136,
+    "forks_count": 690
   },
   {
     "full_name": "ksonnet/ksonnet",
