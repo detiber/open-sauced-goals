@@ -1,7 +1,7 @@
 [
   {
     "full_name": "ChazLayyd/Bambu-Lab-Klipper-Conversion",
-    "stargazers_count": 354,
+    "stargazers_count": 369,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -13,14 +13,14 @@
   },
   {
     "full_name": "djsime1/awesome-flipperzero",
-    "stargazers_count": 19722,
+    "stargazers_count": 19758,
     "open_issues_count": 6,
-    "forks_count": 856
+    "forks_count": 861
   },
   {
     "full_name": "google/addlicense",
-    "stargazers_count": 737,
-    "open_issues_count": 60,
+    "stargazers_count": 739,
+    "open_issues_count": 62,
     "forks_count": 173
   },
   {
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 16016,
-    "open_issues_count": 342,
+    "stargazers_count": 16033,
+    "open_issues_count": 347,
     "forks_count": 621
   },
   {
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 12398,
-    "open_issues_count": 202,
-    "forks_count": 2121
+    "stargazers_count": 12405,
+    "open_issues_count": 199,
+    "forks_count": 2123
   },
   {
     "full_name": "ibuildthecloud/klum",
@@ -79,13 +79,13 @@
   },
   {
     "full_name": "isacikgoz/tldr",
-    "stargazers_count": 1382,
+    "stargazers_count": 1384,
     "open_issues_count": 22,
     "forks_count": 48
   },
   {
     "full_name": "gizak/termui",
-    "stargazers_count": 13268,
+    "stargazers_count": 13270,
     "open_issues_count": 105,
     "forks_count": 791
   },
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "liquidctl/liquidctl",
-    "stargazers_count": 2282,
-    "open_issues_count": 74,
-    "forks_count": 228
+    "stargazers_count": 2283,
+    "open_issues_count": 77,
+    "forks_count": 229
   },
   {
     "full_name": "frapposelli/dotfiles",
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "jessfraz/dotfiles",
-    "stargazers_count": 3250,
+    "stargazers_count": 3251,
     "open_issues_count": 12,
     "forks_count": 518
   },
@@ -152,7 +152,7 @@
   {
     "full_name": "vmware-tanzu/sonobuoy",
     "stargazers_count": 2933,
-    "open_issues_count": 38,
+    "open_issues_count": 40,
     "forks_count": 345
   },
   {
@@ -164,7 +164,7 @@
   {
     "full_name": "CentOS/duffy",
     "stargazers_count": 9,
-    "open_issues_count": 22,
+    "open_issues_count": 23,
     "forks_count": 21
   },
   {
