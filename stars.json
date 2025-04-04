@@ -1,21 +1,21 @@
 [
   {
     "full_name": "ChazLayyd/Bambu-Lab-Klipper-Conversion",
-    "stargazers_count": 429,
+    "stargazers_count": 431,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "coderjojo/creative-profile-readme",
-    "stargazers_count": 2696,
+    "stargazers_count": 2698,
     "open_issues_count": 14,
     "forks_count": 530
   },
   {
     "full_name": "djsime1/awesome-flipperzero",
-    "stargazers_count": 20303,
+    "stargazers_count": 20333,
     "open_issues_count": 5,
-    "forks_count": 891
+    "forks_count": 893
   },
   {
     "full_name": "google/addlicense",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "cncf/cloud-native-community-cookbook",
-    "stargazers_count": 179,
+    "stargazers_count": 180,
     "open_issues_count": 6,
     "forks_count": 40
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 16537,
-    "open_issues_count": 357,
-    "forks_count": 643
+    "stargazers_count": 16551,
+    "open_issues_count": 349,
+    "forks_count": 646
   },
   {
     "full_name": "tinkerbell/hook",
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 12631,
-    "open_issues_count": 188,
-    "forks_count": 2158
+    "stargazers_count": 12647,
+    "open_issues_count": 192,
+    "forks_count": 2185
   },
   {
     "full_name": "ibuildthecloud/klum",
-    "stargazers_count": 309,
+    "stargazers_count": 310,
     "open_issues_count": 5,
     "forks_count": 20
   },
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "gizak/termui",
-    "stargazers_count": 13317,
+    "stargazers_count": 13319,
     "open_issues_count": 105,
     "forks_count": 795
   },
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "liquidctl/liquidctl",
-    "stargazers_count": 2315,
-    "open_issues_count": 82,
+    "stargazers_count": 2317,
+    "open_issues_count": 83,
     "forks_count": 230
   },
   {
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "jessfraz/dotfiles",
-    "stargazers_count": 3264,
+    "stargazers_count": 3265,
     "open_issues_count": 12,
     "forks_count": 518
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "projectcontour/contour",
-    "stargazers_count": 3767,
-    "open_issues_count": 122,
-    "forks_count": 691
+    "stargazers_count": 3770,
+    "open_issues_count": 117,
+    "forks_count": 692
   },
   {
     "full_name": "ksonnet/ksonnet",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "vmware-tanzu/sonobuoy",
-    "stargazers_count": 2949,
+    "stargazers_count": 2950,
     "open_issues_count": 22,
     "forks_count": 350
   },
@@ -164,7 +164,7 @@
   {
     "full_name": "CentOS/duffy",
     "stargazers_count": 9,
-    "open_issues_count": 19,
+    "open_issues_count": 18,
     "forks_count": 22
   },
   {
