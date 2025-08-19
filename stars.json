@@ -1,27 +1,27 @@
 [
   {
     "full_name": "ChazLayyd/Bambu-Lab-Klipper-Conversion",
-    "stargazers_count": 484,
+    "stargazers_count": 485,
     "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "coderjojo/creative-profile-readme",
-    "stargazers_count": 2805,
+    "stargazers_count": 2810,
     "open_issues_count": 14,
     "forks_count": 529
   },
   {
     "full_name": "djsime1/awesome-flipperzero",
-    "stargazers_count": 21423,
+    "stargazers_count": 21460,
     "open_issues_count": 8,
-    "forks_count": 940
+    "forks_count": 941
   },
   {
     "full_name": "google/addlicense",
-    "stargazers_count": 802,
-    "open_issues_count": 47,
-    "forks_count": 184
+    "stargazers_count": 803,
+    "open_issues_count": 49,
+    "forks_count": 185
   },
   {
     "full_name": "cncf/cloudnativetv",
@@ -37,14 +37,14 @@
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 17887,
-    "open_issues_count": 405,
-    "forks_count": 693
+    "stargazers_count": 17900,
+    "open_issues_count": 401,
+    "forks_count": 694
   },
   {
     "full_name": "tinkerbell/hook",
     "stargazers_count": 123,
-    "open_issues_count": 7,
+    "open_issues_count": 4,
     "forks_count": 59
   },
   {
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 13067,
-    "open_issues_count": 212,
-    "forks_count": 2228
+    "stargazers_count": 13073,
+    "open_issues_count": 211,
+    "forks_count": 2231
   },
   {
     "full_name": "ibuildthecloud/klum",
@@ -104,7 +104,7 @@
   {
     "full_name": "liquidctl/liquidctl",
     "stargazers_count": 2412,
-    "open_issues_count": 96,
+    "open_issues_count": 95,
     "forks_count": 239
   },
   {
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "projectcontour/contour",
-    "stargazers_count": 3827,
-    "open_issues_count": 123,
-    "forks_count": 697
+    "stargazers_count": 3826,
+    "open_issues_count": 117,
+    "forks_count": 698
   },
   {
     "full_name": "ksonnet/ksonnet",
