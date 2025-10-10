@@ -1,27 +1,27 @@
 [
   {
     "full_name": "ChazLayyd/Bambu-Lab-Klipper-Conversion",
-    "stargazers_count": 490,
+    "stargazers_count": 492,
     "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "coderjojo/creative-profile-readme",
-    "stargazers_count": 2855,
+    "stargazers_count": 2860,
     "open_issues_count": 14,
     "forks_count": 531
   },
   {
     "full_name": "djsime1/awesome-flipperzero",
-    "stargazers_count": 21843,
-    "open_issues_count": 9,
+    "stargazers_count": 21874,
+    "open_issues_count": 8,
     "forks_count": 965
   },
   {
     "full_name": "google/addlicense",
-    "stargazers_count": 838,
-    "open_issues_count": 52,
-    "forks_count": 187
+    "stargazers_count": 839,
+    "open_issues_count": 54,
+    "forks_count": 188
   },
   {
     "full_name": "cncf/cloudnativetv",
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 18143,
-    "open_issues_count": 433,
-    "forks_count": 705
+    "stargazers_count": 18155,
+    "open_issues_count": 427,
+    "forks_count": 706
   },
   {
     "full_name": "tinkerbell/hook",
-    "stargazers_count": 124,
+    "stargazers_count": 125,
     "open_issues_count": 4,
     "forks_count": 58
   },
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 13193,
-    "open_issues_count": 207,
-    "forks_count": 2244
+    "stargazers_count": 13200,
+    "open_issues_count": 206,
+    "forks_count": 2245
   },
   {
     "full_name": "ibuildthecloud/klum",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "gizak/termui",
-    "stargazers_count": 13428,
+    "stargazers_count": 13431,
     "open_issues_count": 103,
-    "forks_count": 800
+    "forks_count": 801
   },
   {
     "full_name": "vmware-archive/cluster-api-upgrade-tool",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "liquidctl/liquidctl",
-    "stargazers_count": 2442,
+    "stargazers_count": 2443,
     "open_issues_count": 108,
     "forks_count": 242
   },
@@ -140,8 +140,8 @@
   {
     "full_name": "projectcontour/contour",
     "stargazers_count": 3842,
-    "open_issues_count": 116,
-    "forks_count": 701
+    "open_issues_count": 117,
+    "forks_count": 702
   },
   {
     "full_name": "ksonnet/ksonnet",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "vmware-tanzu/sonobuoy",
-    "stargazers_count": 2987,
+    "stargazers_count": 2986,
     "open_issues_count": 25,
     "forks_count": 354
   },
