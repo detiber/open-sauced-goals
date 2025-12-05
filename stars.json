@@ -1,45 +1,45 @@
 [
   {
     "full_name": "ChazLayyd/Bambu-Lab-Klipper-Conversion",
-    "stargazers_count": 511,
+    "stargazers_count": 512,
     "open_issues_count": 1,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "coderjojo/creative-profile-readme",
-    "stargazers_count": 2911,
+    "stargazers_count": 2913,
     "open_issues_count": 12,
-    "forks_count": 532
+    "forks_count": 530
   },
   {
     "full_name": "djsime1/awesome-flipperzero",
-    "stargazers_count": 22268,
+    "stargazers_count": 22288,
     "open_issues_count": 8,
     "forks_count": 986
   },
   {
     "full_name": "google/addlicense",
-    "stargazers_count": 850,
+    "stargazers_count": 851,
     "open_issues_count": 54,
-    "forks_count": 189
+    "forks_count": 188
   },
   {
     "full_name": "cncf/cloudnativetv",
     "stargazers_count": 37,
     "open_issues_count": 2,
-    "forks_count": 6
+    "forks_count": 4
   },
   {
     "full_name": "cncf/cloud-native-community-cookbook",
     "stargazers_count": 180,
     "open_issues_count": 6,
-    "forks_count": 40
+    "forks_count": 39
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 19524,
-    "open_issues_count": 429,
-    "forks_count": 778
+    "stargazers_count": 19630,
+    "open_issues_count": 431,
+    "forks_count": 779
   },
   {
     "full_name": "tinkerbell/hook",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 13360,
-    "open_issues_count": 214,
-    "forks_count": 2270
+    "stargazers_count": 13367,
+    "open_issues_count": 217,
+    "forks_count": 2271
   },
   {
     "full_name": "ibuildthecloud/klum",
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "isacikgoz/tldr",
-    "stargazers_count": 1418,
+    "stargazers_count": 1417,
     "open_issues_count": 22,
     "forks_count": 48
   },
   {
     "full_name": "gizak/termui",
-    "stargazers_count": 13472,
-    "open_issues_count": 103,
-    "forks_count": 803
+    "stargazers_count": 13473,
+    "open_issues_count": 106,
+    "forks_count": 804
   },
   {
     "full_name": "vmware-archive/cluster-api-upgrade-tool",
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "liquidctl/liquidtux",
-    "stargazers_count": 89,
+    "stargazers_count": 90,
     "open_issues_count": 8,
     "forks_count": 17
   },
   {
     "full_name": "liquidctl/liquidctl",
-    "stargazers_count": 2478,
-    "open_issues_count": 64,
-    "forks_count": 251
+    "stargazers_count": 2482,
+    "open_issues_count": 63,
+    "forks_count": 250
   },
   {
     "full_name": "frapposelli/dotfiles",
@@ -139,8 +139,8 @@
   },
   {
     "full_name": "projectcontour/contour",
-    "stargazers_count": 3870,
-    "open_issues_count": 130,
+    "stargazers_count": 3874,
+    "open_issues_count": 129,
     "forks_count": 703
   },
   {
@@ -153,7 +153,7 @@
     "full_name": "vmware-tanzu/sonobuoy",
     "stargazers_count": 3014,
     "open_issues_count": 27,
-    "forks_count": 356
+    "forks_count": 355
   },
   {
     "full_name": "vmware-archive/wardroom",
@@ -171,7 +171,7 @@
     "full_name": "kubicorn/kubicorn",
     "stargazers_count": 1686,
     "open_issues_count": 62,
-    "forks_count": 195
+    "forks_count": 193
   },
   {
     "full_name": "CentOS/Calendar",
