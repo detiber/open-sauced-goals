@@ -13,9 +13,9 @@
   },
   {
     "full_name": "djsime1/awesome-flipperzero",
-    "stargazers_count": 22828,
+    "stargazers_count": 22853,
     "open_issues_count": 10,
-    "forks_count": 1002
+    "forks_count": 1003
   },
   {
     "full_name": "google/addlicense",
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 20231,
-    "open_issues_count": 428,
+    "stargazers_count": 20256,
+    "open_issues_count": 421,
     "forks_count": 814
   },
   {
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 13568,
-    "open_issues_count": 216,
-    "forks_count": 2308
+    "stargazers_count": 13574,
+    "open_issues_count": 220,
+    "forks_count": 2312
   },
   {
     "full_name": "ibuildthecloud/klum",
@@ -79,13 +79,13 @@
   },
   {
     "full_name": "isacikgoz/tldr",
-    "stargazers_count": 1427,
+    "stargazers_count": 1428,
     "open_issues_count": 22,
     "forks_count": 48
   },
   {
     "full_name": "gizak/termui",
-    "stargazers_count": 13517,
+    "stargazers_count": 13519,
     "open_issues_count": 106,
     "forks_count": 817
   },
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "liquidctl/liquidtux",
-    "stargazers_count": 91,
+    "stargazers_count": 92,
     "open_issues_count": 9,
     "forks_count": 18
   },
   {
     "full_name": "liquidctl/liquidctl",
-    "stargazers_count": 2540,
+    "stargazers_count": 2544,
     "open_issues_count": 53,
-    "forks_count": 257
+    "forks_count": 258
   },
   {
     "full_name": "frapposelli/dotfiles",
@@ -139,13 +139,13 @@
   },
   {
     "full_name": "projectcontour/contour",
-    "stargazers_count": 3913,
-    "open_issues_count": 127,
+    "stargazers_count": 3915,
+    "open_issues_count": 124,
     "forks_count": 705
   },
   {
     "full_name": "ksonnet/ksonnet",
-    "stargazers_count": 1160,
+    "stargazers_count": 1161,
     "open_issues_count": 150,
     "forks_count": 174
   },
@@ -164,7 +164,7 @@
   {
     "full_name": "CentOS/duffy",
     "stargazers_count": 10,
-    "open_issues_count": 20,
+    "open_issues_count": 21,
     "forks_count": 23
   },
   {
