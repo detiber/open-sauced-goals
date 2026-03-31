@@ -1,25 +1,25 @@
 [
   {
     "full_name": "ChazLayyd/Bambu-Lab-Klipper-Conversion",
-    "stargazers_count": 535,
+    "stargazers_count": 536,
     "open_issues_count": 0,
     "forks_count": 8
   },
   {
     "full_name": "coderjojo/creative-profile-readme",
-    "stargazers_count": 3006,
+    "stargazers_count": 3009,
     "open_issues_count": 12,
-    "forks_count": 531
+    "forks_count": 532
   },
   {
     "full_name": "djsime1/awesome-flipperzero",
-    "stargazers_count": 23070,
+    "stargazers_count": 23098,
     "open_issues_count": 10,
-    "forks_count": 1003
+    "forks_count": 1000
   },
   {
     "full_name": "google/addlicense",
-    "stargazers_count": 871,
+    "stargazers_count": 873,
     "open_issues_count": 58,
     "forks_count": 191
   },
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 20555,
-    "open_issues_count": 450,
-    "forks_count": 832
+    "stargazers_count": 20589,
+    "open_issues_count": 451,
+    "forks_count": 834
   },
   {
     "full_name": "tinkerbell/hook",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 13722,
-    "open_issues_count": 238,
-    "forks_count": 2351
+    "stargazers_count": 13727,
+    "open_issues_count": 231,
+    "forks_count": 2354
   },
   {
     "full_name": "ibuildthecloud/klum",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "gizak/termui",
-    "stargazers_count": 13523,
+    "stargazers_count": 13526,
     "open_issues_count": 106,
-    "forks_count": 817
+    "forks_count": 818
   },
   {
     "full_name": "vmware-archive/cluster-api-upgrade-tool",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "liquidctl/liquidctl",
-    "stargazers_count": 2565,
+    "stargazers_count": 2568,
     "open_issues_count": 59,
     "forks_count": 263
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "jessfraz/dotfiles",
-    "stargazers_count": 3546,
+    "stargazers_count": 3547,
     "open_issues_count": 1,
     "forks_count": 517
   },
@@ -139,8 +139,8 @@
   },
   {
     "full_name": "projectcontour/contour",
-    "stargazers_count": 3923,
-    "open_issues_count": 127,
+    "stargazers_count": 3924,
+    "open_issues_count": 130,
     "forks_count": 712
   },
   {
@@ -171,12 +171,12 @@
     "full_name": "kubicorn/kubicorn",
     "stargazers_count": 1681,
     "open_issues_count": 62,
-    "forks_count": 193
+    "forks_count": 192
   },
   {
     "full_name": "CentOS/Calendar",
     "stargazers_count": 12,
     "open_issues_count": 0,
-    "forks_count": 33
+    "forks_count": 32
   }
 ]
