@@ -1,21 +1,21 @@
 [
   {
     "full_name": "ChazLayyd/Bambu-Lab-Klipper-Conversion",
-    "stargazers_count": 537,
+    "stargazers_count": 539,
     "open_issues_count": 0,
     "forks_count": 8
   },
   {
     "full_name": "coderjojo/creative-profile-readme",
-    "stargazers_count": 3020,
+    "stargazers_count": 3022,
     "open_issues_count": 12,
     "forks_count": 533
   },
   {
     "full_name": "djsime1/awesome-flipperzero",
-    "stargazers_count": 23271,
+    "stargazers_count": 23285,
     "open_issues_count": 10,
-    "forks_count": 1010
+    "forks_count": 1009
   },
   {
     "full_name": "google/addlicense",
@@ -33,13 +33,13 @@
     "full_name": "cncf/cloud-native-community-cookbook",
     "stargazers_count": 181,
     "open_issues_count": 6,
-    "forks_count": 39
+    "forks_count": 38
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 20901,
-    "open_issues_count": 474,
-    "forks_count": 860
+    "stargazers_count": 20923,
+    "open_issues_count": 483,
+    "forks_count": 862
   },
   {
     "full_name": "tinkerbell/hook",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 13781,
-    "open_issues_count": 245,
-    "forks_count": 2367
+    "stargazers_count": 13779,
+    "open_issues_count": 237,
+    "forks_count": 2368
   },
   {
     "full_name": "ibuildthecloud/klum",
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "isacikgoz/tldr",
-    "stargazers_count": 1432,
+    "stargazers_count": 1431,
     "open_issues_count": 22,
     "forks_count": 48
   },
   {
     "full_name": "gizak/termui",
-    "stargazers_count": 13543,
+    "stargazers_count": 13544,
     "open_issues_count": 106,
-    "forks_count": 816
+    "forks_count": 815
   },
   {
     "full_name": "vmware-archive/cluster-api-upgrade-tool",
@@ -104,8 +104,8 @@
   {
     "full_name": "liquidctl/liquidctl",
     "stargazers_count": 2589,
-    "open_issues_count": 66,
-    "forks_count": 265
+    "open_issues_count": 68,
+    "forks_count": 266
   },
   {
     "full_name": "frapposelli/dotfiles",
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "jessfraz/dotfiles",
-    "stargazers_count": 3555,
+    "stargazers_count": 3557,
     "open_issues_count": 1,
     "forks_count": 513
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "projectcontour/contour",
-    "stargazers_count": 3927,
+    "stargazers_count": 3929,
     "open_issues_count": 133,
-    "forks_count": 712
+    "forks_count": 711
   },
   {
     "full_name": "ksonnet/ksonnet",
