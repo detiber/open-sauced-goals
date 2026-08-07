@@ -1,7 +1,7 @@
 [
   {
     "full_name": "ChazLayyd/Bambu-Lab-Klipper-Conversion",
-    "stargazers_count": 562,
+    "stargazers_count": 563,
     "open_issues_count": 0,
     "forks_count": 11
   },
@@ -9,17 +9,17 @@
     "full_name": "coderjojo/creative-profile-readme",
     "stargazers_count": 3071,
     "open_issues_count": 12,
-    "forks_count": 537
+    "forks_count": 536
   },
   {
     "full_name": "djsime1/awesome-flipperzero",
-    "stargazers_count": 23883,
+    "stargazers_count": 23901,
     "open_issues_count": 15,
-    "forks_count": 1035
+    "forks_count": 1037
   },
   {
     "full_name": "google/addlicense",
-    "stargazers_count": 883,
+    "stargazers_count": 884,
     "open_issues_count": 60,
     "forks_count": 195
   },
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 21610,
-    "open_issues_count": 523,
-    "forks_count": 937
+    "stargazers_count": 21631,
+    "open_issues_count": 528,
+    "forks_count": 940
   },
   {
     "full_name": "tinkerbell/hook",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 13997,
-    "open_issues_count": 249,
-    "forks_count": 2419
+    "stargazers_count": 14003,
+    "open_issues_count": 245,
+    "forks_count": 2420
   },
   {
     "full_name": "ibuildthecloud/klum",
@@ -87,7 +87,7 @@
     "full_name": "gizak/termui",
     "stargazers_count": 13581,
     "open_issues_count": 106,
-    "forks_count": 818
+    "forks_count": 819
   },
   {
     "full_name": "vmware-archive/cluster-api-upgrade-tool",
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "liquidctl/liquidctl",
-    "stargazers_count": 2653,
-    "open_issues_count": 86,
+    "stargazers_count": 2654,
+    "open_issues_count": 87,
     "forks_count": 285
   },
   {
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "projectcontour/contour",
-    "stargazers_count": 3945,
-    "open_issues_count": 130,
-    "forks_count": 722
+    "stargazers_count": 3944,
+    "open_issues_count": 128,
+    "forks_count": 723
   },
   {
     "full_name": "ksonnet/ksonnet",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "kubernetes-sigs/external-dns",
-    "stargazers_count": 9050,
-    "open_issues_count": 179,
-    "forks_count": 2908
+    "stargazers_count": 9057,
+    "open_issues_count": 177,
+    "forks_count": 2911
   }
 ]
