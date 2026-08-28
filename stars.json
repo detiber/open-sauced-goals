@@ -9,13 +9,13 @@
     "full_name": "coderjojo/creative-profile-readme",
     "stargazers_count": 3073,
     "open_issues_count": 12,
-    "forks_count": 538
+    "forks_count": 536
   },
   {
     "full_name": "djsime1/awesome-flipperzero",
-    "stargazers_count": 24154,
-    "open_issues_count": 16,
-    "forks_count": 1053
+    "stargazers_count": 24187,
+    "open_issues_count": 17,
+    "forks_count": 1058
   },
   {
     "full_name": "google/addlicense",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 21746,
-    "open_issues_count": 534,
+    "stargazers_count": 21775,
+    "open_issues_count": 539,
     "forks_count": 946
   },
   {
     "full_name": "tinkerbell/hook",
     "stargazers_count": 131,
-    "open_issues_count": 18,
-    "forks_count": 64
+    "open_issues_count": 19,
+    "forks_count": 65
   },
   {
     "full_name": "honk-ci/honk-twitter-bot",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 14049,
+    "stargazers_count": 14054,
     "open_issues_count": 248,
-    "forks_count": 2435
+    "forks_count": 2440
   },
   {
     "full_name": "ibuildthecloud/klum",
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "gizak/termui",
-    "stargazers_count": 13580,
+    "stargazers_count": 13582,
     "open_issues_count": 106,
     "forks_count": 819
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "liquidctl/liquidctl",
-    "stargazers_count": 2671,
+    "stargazers_count": 2670,
     "open_issues_count": 90,
     "forks_count": 290
   },
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "jessfraz/dotfiles",
-    "stargazers_count": 3561,
+    "stargazers_count": 3562,
     "open_issues_count": 1,
-    "forks_count": 508
+    "forks_count": 507
   },
   {
     "full_name": "projectcontour/contour",
     "stargazers_count": 3945,
-    "open_issues_count": 124,
-    "forks_count": 724
+    "open_issues_count": 125,
+    "forks_count": 726
   },
   {
     "full_name": "ksonnet/ksonnet",
@@ -146,7 +146,7 @@
   {
     "full_name": "vmware-tanzu/sonobuoy",
     "stargazers_count": 3051,
-    "open_issues_count": 35,
+    "open_issues_count": 36,
     "forks_count": 360
   },
   {
@@ -176,7 +176,7 @@
   {
     "full_name": "kubernetes-sigs/external-dns",
     "stargazers_count": 9073,
-    "open_issues_count": 183,
-    "forks_count": 2918
+    "open_issues_count": 185,
+    "forks_count": 2920
   }
 ]
