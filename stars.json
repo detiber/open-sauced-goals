@@ -9,19 +9,19 @@
     "full_name": "coderjojo/creative-profile-readme",
     "stargazers_count": 3074,
     "open_issues_count": 12,
-    "forks_count": 539
+    "forks_count": 540
   },
   {
     "full_name": "djsime1/awesome-flipperzero",
-    "stargazers_count": 24274,
+    "stargazers_count": 24297,
     "open_issues_count": 17,
     "forks_count": 1063
   },
   {
     "full_name": "google/addlicense",
-    "stargazers_count": 886,
-    "open_issues_count": 60,
-    "forks_count": 194
+    "stargazers_count": 887,
+    "open_issues_count": 61,
+    "forks_count": 195
   },
   {
     "full_name": "cncf/cloudnativetv",
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 21897,
-    "open_issues_count": 530,
-    "forks_count": 957
+    "stargazers_count": 21917,
+    "open_issues_count": 527,
+    "forks_count": 956
   },
   {
     "full_name": "tinkerbell/hook",
-    "stargazers_count": 130,
+    "stargazers_count": 131,
     "open_issues_count": 19,
     "forks_count": 65
   },
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 14082,
-    "open_issues_count": 266,
-    "forks_count": 2449
+    "stargazers_count": 14084,
+    "open_issues_count": 263,
+    "forks_count": 2451
   },
   {
     "full_name": "ibuildthecloud/klum",
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "gizak/termui",
-    "stargazers_count": 13583,
+    "stargazers_count": 13584,
     "open_issues_count": 106,
     "forks_count": 819
   },
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "liquidctl/liquidctl",
-    "stargazers_count": 2680,
-    "open_issues_count": 96,
-    "forks_count": 294
+    "stargazers_count": 2683,
+    "open_issues_count": 98,
+    "forks_count": 295
   },
   {
     "full_name": "frapposelli/dotfiles",
@@ -127,14 +127,14 @@
   },
   {
     "full_name": "jessfraz/dotfiles",
-    "stargazers_count": 3560,
+    "stargazers_count": 3562,
     "open_issues_count": 1,
     "forks_count": 507
   },
   {
     "full_name": "projectcontour/contour",
-    "stargazers_count": 3947,
-    "open_issues_count": 124,
+    "stargazers_count": 3948,
+    "open_issues_count": 122,
     "forks_count": 728
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "kubernetes-sigs/external-dns",
-    "stargazers_count": 9088,
+    "stargazers_count": 9091,
     "open_issues_count": 197,
-    "forks_count": 2931
+    "forks_count": 2929
   }
 ]
