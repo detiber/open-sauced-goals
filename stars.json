@@ -9,17 +9,17 @@
     "full_name": "coderjojo/creative-profile-readme",
     "stargazers_count": 3076,
     "open_issues_count": 12,
-    "forks_count": 540
+    "forks_count": 541
   },
   {
     "full_name": "djsime1/awesome-flipperzero",
-    "stargazers_count": 24374,
+    "stargazers_count": 24392,
     "open_issues_count": 17,
-    "forks_count": 1067
+    "forks_count": 1068
   },
   {
     "full_name": "google/addlicense",
-    "stargazers_count": 889,
+    "stargazers_count": 891,
     "open_issues_count": 61,
     "forks_count": 195
   },
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "lima-vm/lima",
-    "stargazers_count": 21987,
-    "open_issues_count": 542,
-    "forks_count": 962
+    "stargazers_count": 22013,
+    "open_issues_count": 545,
+    "forks_count": 968
   },
   {
     "full_name": "tinkerbell/hook",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "cert-manager/cert-manager",
-    "stargazers_count": 14096,
-    "open_issues_count": 263,
-    "forks_count": 2456
+    "stargazers_count": 14103,
+    "open_issues_count": 262,
+    "forks_count": 2460
   },
   {
     "full_name": "ibuildthecloud/klum",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "liquidctl/liquidctl",
-    "stargazers_count": 2683,
+    "stargazers_count": 2684,
     "open_issues_count": 100,
     "forks_count": 297
   },
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "twosigma/marbles",
-    "stargazers_count": 155,
+    "stargazers_count": 156,
     "open_issues_count": 23,
     "forks_count": 21
   },
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "projectcontour/contour",
-    "stargazers_count": 3956,
+    "stargazers_count": 3957,
     "open_issues_count": 129,
     "forks_count": 729
   },
@@ -158,7 +158,7 @@
   {
     "full_name": "CentOS/duffy",
     "stargazers_count": 10,
-    "open_issues_count": 21,
+    "open_issues_count": 19,
     "forks_count": 23
   },
   {
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "kubernetes-sigs/external-dns",
-    "stargazers_count": 9097,
+    "stargazers_count": 9098,
     "open_issues_count": 186,
     "forks_count": 2929
   }
